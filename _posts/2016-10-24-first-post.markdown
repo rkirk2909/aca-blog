@@ -1,0 +1,7 @@
+---
+layout: post
+title: "My Fist Real Post"
+date: 2016-10-24 15:46:00 -0600
+---
+
+I'm in! Finally got this bad boy up and running. Stay tuned for more posts about lessons and everything else that we will cover in the Intro class here at Austin Coding Academy.
