@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Fist Real Post"
-date: 2016-10-24 19:46:00 -0600
+date: 2016-10-24 20:00:00 -0600
 categories: coding
 ---
 
