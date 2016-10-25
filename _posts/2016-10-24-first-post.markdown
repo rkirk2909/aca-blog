@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Fist Real Post"
+title: "My First Real Post"
 date: 2016-10-24 20:00:00 -0600
 categories: coding
 ---
