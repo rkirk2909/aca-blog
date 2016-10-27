@@ -9,9 +9,7 @@
 title: Ryan Kirkham
 email: red.kirkham@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my blog! I'm going to be writing about my experiences at Austin Coding Academy and eventually about topics that I find intriguing. Give my posts a read and follow me in my journey learning to code and just life in general. Cheers!
 baseurl: "/aca-blog" # the subpath of your site, e.g. /blog
 url: "http://rkirk2909.github.io" # the base hostname & protocol for your site
 twitter_username: rkirk2909
