@@ -1,0 +1,8 @@
+---
+layout: post
+title: Media Queries
+date: 2016-11-16 14:44:00 -0600
+categories: coding
+---
+
+Media queries might be my new favorite stylizing tool. Now instead of worrying about scalability between different devices and having to build your webpage with general characteristics that allow for this, you can just add a @media section to your css and essentially build multiple layouts in one css file. This is where media queries have so much power. They allow you to build webpage taylor-made for as many devices and device lengths you see fit. Say you develop a website and upon further testing you figure out that when your site is trying to be viewed on a mobile phone instead of a desktop or even a tablet, all of the elements become squished together and are basically unreadable. Media queries allows you to apply stylistic properties that will only take place when your webpage is trying to be viewed on a mobile device, therefore not messing up any of your previous designs and styles that are present when viewing on a desktop. For example, most content is more easily read in a column format on a mobile device whereas on a desktop, a single column would leave too much white/unused space on the browser so it would be better to make your content appear in rows and spaced out along the entire width of the screen size. Media queries allows you to apply all these different styles in a single css file therefore eliminating linking multiple css files to your html document and slowing down loading time, or even worse risk confusing the browser on what specific styles you are wanting to apply by having mutiple lines of conflicting code for a single html element.
